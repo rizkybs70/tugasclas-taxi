@@ -1,0 +1,13 @@
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\obj\Debug\netcoreapp3.1\Tugas Class Taxi.csprojAssemblyReference.cache
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\obj\Debug\netcoreapp3.1\Tugas Class Taxi.AssemblyInfoInputs.cache
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\obj\Debug\netcoreapp3.1\Tugas Class Taxi.AssemblyInfo.cs
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\obj\Debug\netcoreapp3.1\Tugas Class Taxi.csproj.CoreCompileInputs.cache
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\bin\Debug\netcoreapp3.1\Tugas Class Taxi.exe
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\bin\Debug\netcoreapp3.1\Tugas Class Taxi.deps.json
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\bin\Debug\netcoreapp3.1\Tugas Class Taxi.runtimeconfig.json
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\bin\Debug\netcoreapp3.1\Tugas Class Taxi.runtimeconfig.dev.json
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\bin\Debug\netcoreapp3.1\Tugas Class Taxi.dll
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\bin\Debug\netcoreapp3.1\Tugas Class Taxi.pdb
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\obj\Debug\netcoreapp3.1\Tugas Class Taxi.dll
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\obj\Debug\netcoreapp3.1\Tugas Class Taxi.pdb
+D:\Penting\Tugas\Pemograman\Tugas Class Taxi\obj\Debug\netcoreapp3.1\Tugas Class Taxi.genruntimeconfig.cache
